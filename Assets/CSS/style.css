@@ -1,0 +1,27 @@
+body {
+	width: 960px;
+	background: red;
+}
+.header {
+	background: black;
+	color: white;
+	height: 30px;
+	width: 960px;
+
+}
+
+.mystuff {
+	font-size: 40px;
+	color: orange;
+
+}
+
+.aside {
+	width: 270px;
+	background: green;
+	color: orange;
+}
+
+.footer {
+	color: yellow;
+}
